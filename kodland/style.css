@@ -1,0 +1,17 @@
+html{
+    background-image: url(chernayabymaga.jpg);
+}
+main>h1{display:block;
+    color: darkgray;
+}
+main>p{display:block;
+    color: darkgray;
+}
+header{
+    background-image: url(apocalifon.jpg);
+}
+article{
+    position:fixed;
+    left: 75%;
+    top:25%;
+}
