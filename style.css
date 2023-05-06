@@ -2,10 +2,10 @@ html{
     background-image: url(chernayabymaga.jpg);
 }
 main>h1{display:block;
-    color: darkgray;
+    color: orange;
 }
 main>p{display:block;
-    color: darkgray;
+    color: orange;
 }
 header{
     background-image: url(apocalifon.jpg);
